@@ -10,7 +10,7 @@
     }
     ],
     "require": {
-    "php": "^8.0.20"
+    "php": "^8.0.10"
     },
     "config": {
     "preferred-install": {

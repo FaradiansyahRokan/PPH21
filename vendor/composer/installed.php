@@ -3,7 +3,7 @@
         'name' => 'perhitungan-pajak21/calculator',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'a5358a0a6ae0a03f4be4dfb91ac51ab35619dc63',
+        'reference' => '21f701ff69ab28fe4844b5673ae470f7af7e98b3',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'perhitungan-pajak21/calculator' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'a5358a0a6ae0a03f4be4dfb91ac51ab35619dc63',
+            'reference' => '21f701ff69ab28fe4844b5673ae470f7af7e98b3',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
